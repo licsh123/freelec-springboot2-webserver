@@ -1,0 +1,2 @@
+com/chuchu/admin/Application.java
+ com.chuchu.admin.Application
